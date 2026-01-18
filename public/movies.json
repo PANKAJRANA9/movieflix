@@ -1,142 +1,227 @@
 [
   {
     "id": 1,
-    "title": "Dark Storm",
-    "image": "1.jpg",
-    "genre": "drama",
-    "rating": "8.3"
+    "title": "Inception",
+    "image": "inception.jpg",
+    "genre": "Sci-Fi",
+    "rating": 8.8,
+    "trailerId": "YoHD9XEInc0",
+    "year": 2010
   },
   {
     "id": 2,
-    "title": "Whisper of Fate",
-    "image": "2.jpg",
-    "genre": "fantasy",
-    "rating": "7.7"
+    "title": "Interstellar",
+    "image": "interstellar.jpg",
+    "genre": "Sci-Fi",
+    "rating": 8.6,
+    "trailerId": "zSWdZVtXT7E",
+    "year": 2014
   },
   {
     "id": 3,
-    "title": "Beyond the Edge",
-    "image": "3.jpg",
-    "genre": "horror",
-    "rating": "6.3"
+    "title": "The Dark Knight",
+    "image": "dark_knight.jpg",
+    "genre": "Action",
+    "rating": 9.0,
+    "trailerId": "EXeTwQWrcwY",
+    "year": 2008
   },
   {
     "id": 4,
-    "title": "Lost in Shadows",
-    "image": "4.jpg",
-    "genre": "action",
-    "rating": "9.3"
+    "title": "Avengers: Endgame",
+    "image": "endgame.jpg",
+    "genre": "Action",
+    "rating": 8.4,
+    "trailerId": "TcMBFSGVi1c",
+    "year": 2019
   },
   {
     "id": 5,
-    "title": "Echoes of Power",
-    "image": "5.jpg",
-    "genre": "fantasy",
-    "rating": "6.9"
+    "title": "The Matrix",
+    "image": "matrix.jpg",
+    "genre": "Sci-Fi",
+    "rating": 8.7,
+    "trailerId": "vKQi3bBA1y8",
+    "year": 1999
   },
   {
     "id": 6,
-    "title": "Grim Reckoning",
-    "image": "6.jpg",
-    "genre": "drama",
-    "rating": "8.4"
+    "title": "Titanic",
+    "image": "titanic.jpg",
+    "genre": "Romance",
+    "rating": 7.9,
+    "trailerId": "kVrqfYjkTdQ",
+    "year": 1997
   },
   {
     "id": 7,
-    "title": "Fury's Flight",
-    "image": "7.jpg",
-    "genre": "action",
-    "rating": "9.8"
+    "title": "Gladiator",
+    "image": "gladiator.jpg",
+    "genre": "Drama",
+    "rating": 8.5,
+    "trailerId": "owK1qxDselE",
+    "year": 2000
   },
   {
     "id": 8,
-    "title": "Path of the Forgotten",
-    "image": "8.jpg",
-    "genre": "action",
-    "rating": "7.2"
+    "title": "Jurassic Park",
+    "image": "jurassic_park.jpg",
+    "genre": "Adventure",
+    "rating": 8.2,
+    "trailerId": "QWBKEmWWL38",
+    "year": 1993
   },
   {
     "id": 9,
-    "title": "Nightmare's Threshold",
-    "image": "9.jpg",
-    "genre": "horror",
-    "rating": "1.7"
+    "title": "Forrest Gump",
+    "image": "forrest_gump.jpg",
+    "genre": "Drama",
+    "rating": 8.8,
+    "trailerId": "bLvqoHBptjg",
+    "year": 1994
   },
   {
     "id": 10,
-    "title": "Eternal Hunt",
-    "image": "10.jpg",
-    "genre": "fantasy",
-    "rating": "7.5"
+    "title": "Fight Club",
+    "image": "fight_club.jpg",
+    "genre": "Drama",
+    "rating": 8.8,
+    "trailerId": "SUXWAEX2jlg",
+    "year": 1999
   },
   {
     "id": 11,
-    "title": "Legacy of the Void",
-    "image": "11.jpg",
-    "genre": "action",
-    "rating": "8.5"
+    "title": "The Shawshank Redemption",
+    "image": "shawshank.jpg",
+    "genre": "Drama",
+    "rating": 9.3,
+    "trailerId": "NmzuHjWmXOc",
+    "year": 1994
   },
   {
     "id": 12,
-    "title": "Shadow's Crescent",
-    "image": "12.jpg",
-    "genre": "horror",
-    "rating": "7.5"
+    "title": "The Godfather",
+    "image": "godfather.jpg",
+    "genre": "Crime",
+    "rating": 9.2,
+    "trailerId": "sY1S34973zA",
+    "year": 1972
   },
   {
     "id": 13,
-    "title": "Crimson Dawn",
-    "image": "13.jpg",
-    "genre": "fantasy",
-    "rating": "8.4"
+    "title": "Pulp Fiction",
+    "image": "pulp_fiction.jpg",
+    "genre": "Crime",
+    "rating": 8.9,
+    "trailerId": "s7EdQ4FqbhY",
+    "year": 1994
   },
   {
     "id": 14,
-    "title": "Silent Kingdom",
-    "image": "14.jpg",
-    "genre": "fantasy",
-    "rating": "6.5"
+    "title": "The Lion King",
+    "image": "lion_king.jpg",
+    "genre": "Animation",
+    "rating": 8.5,
+    "trailerId": "4sj1MT05lAA",
+    "year": 1994
   },
   {
     "id": 15,
-    "title": "Mystic Rite",
-    "image": "15.jpg",
-    "genre": "fantasy",
-    "rating": "9.8"
+    "title": "Avatar",
+    "image": "avatar.jpg",
+    "genre": "Sci-Fi",
+    "rating": 7.8,
+    "trailerId": "5PSNL1qE6VY",
+    "year": 2009
   },
   {
     "id": 16,
-    "title": "Reign of the Lost",
-    "image": "16.jpg",
-    "genre": "horror",
-    "rating": "9.1"
+    "title": "Joker",
+    "image": "joker.jpg",
+    "genre": "Drama",
+    "rating": 8.4,
+    "trailerId": "zAGVQLHvwOY",
+    "year": 2019
   },
   {
     "id": 17,
-    "title": "Timeless Myth",
-    "image": "17.jpg",
-    "genre": "drama",
-    "rating": "4.0"
+    "title": "Iron Man",
+    "image": "iron_man.jpg",
+    "genre": "Action",
+    "rating": 7.9,
+    "trailerId": "8ugaeA-nMTc",
+    "year": 2008
   },
   {
     "id": 18,
-    "title": "Oath of the Fallen",
-    "image": "18.jpg",
-    "genre": "fantasy",
-    "rating": "6.3"
+    "title": "Doctor Strange",
+    "image": "doctor_strange.jpg",
+    "genre": "Fantasy",
+    "rating": 7.5,
+    "trailerId": "HSzx-zryEgM",
+    "year": 2016
   },
   {
     "id": 19,
-    "title": "Veil of Night",
-    "image": "19.jpg",
-    "genre": "drama",
-    "rating": "9.5"
+    "title": "The Wolf of Wall Street",
+    "image": "wolf_wall_street.jpg",
+    "genre": "Biography",
+    "rating": 8.2,
+    "trailerId": "iszwuX1AK6A",
+    "year": 2013
   },
   {
     "id": 20,
-    "title": "Guardians of Twilight",
-    "image": "20.jpg",
-    "genre": "horror",
-    "rating": "7.4"
+    "title": "Mad Max: Fury Road",
+    "image": "mad_max.jpg",
+    "genre": "Action",
+    "rating": 8.1,
+    "trailerId": "hEJnMQG9ev8",
+    "year": 2015
+  },
+  {
+    "id": 21,
+    "title": "Spider-Man: No Way Home",
+    "image": "spiderman_nwh.jpg",
+    "genre": "Action",
+    "rating": 8.2,
+    "trailerId": "JfVOs4VSpmA",
+    "year": 2021
+  },
+  {
+    "id": 22,
+    "title": "Black Panther",
+    "image": "black_panther.jpg",
+    "genre": "Action",
+    "rating": 7.3,
+    "trailerId": "xjDjIWPwcPU",
+    "year": 2018
+  },
+  {
+    "id": 23,
+    "title": "Dune",
+    "image": "dune.jpg",
+    "genre": "Sci-Fi",
+    "rating": 8.0,
+    "trailerId": "n9xhJrPXop4",
+    "year": 2021
+  },
+  {
+    "id": 24,
+    "title": "Tenet",
+    "image": "tenet.jpg",
+    "genre": "Sci-Fi",
+    "rating": 7.4,
+    "trailerId": "L3pk_TBkihU",
+    "year": 2020
+  },
+  {
+    "id": 25,
+    "title": "John Wick",
+    "image": "john_wick.jpg",
+    "genre": "Action",
+    "rating": 7.4,
+    "trailerId": "2AUmvWm5ZDQ",
+    "year": 2014
   }
 ]

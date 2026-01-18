@@ -121,15 +121,16 @@ body {
 }
 
 .movie-card:hover {
-  transform: scale(1.03);
+  transform: scale(1.06);
 }
 
 .movie-card img {
-  width: 250px;
+  width: 280px;
   height: auto;
   display: block;
   object-fit: contain;
   object-position: center;
+  background-color: #00ff6a;
 }
 .movie-card-info {
   padding: 1rem;
@@ -142,16 +143,19 @@ body {
 .movie-card-title {
   font-size: 1.1rem;
   font-weight: bold;
+  /*background: #d47e7e;*/
+  border-radius: 50px;
 }
 
 .movie-card-rating {
   font-size: 0.9rem;
   font-weight: bold;
-  background: #d47e7e;
+  background: #666666;
   padding: 3px 10px;
   margin: 0 auto;
-  width: 150px;
-  border-radius: 50px;
+  width: 180px;
+  height: 60px;
+  border-radius: 100px;
 }
 
 .movie-card-genre {
@@ -217,4 +221,21 @@ body {
   margin-top: 20px;
   text-shadow: 0 0 15px #00ff6a;
   transition: opacity 0.5s ease;
+}
+.modal-bg {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3000;
+}
+
+.modal {
+  width: 80%;
+  max-width: 900px;
+  background: black;
+  border-radius: 12px;
+  overflow: hidden;
 }
